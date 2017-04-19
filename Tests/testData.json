@@ -1,0 +1,14 @@
+[
+    {
+        "VHDXSourcePath": "C:\\somewhere.vhdx",
+        "VMNames":
+        [
+            {
+                "VMName": "VM01"
+            },
+            {
+                "VMName": "VM02"
+            }
+        ]
+    }
+]
